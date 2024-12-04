@@ -1,5 +1,7 @@
 /**
  * Copyright (c) 2024, Scitix Tech PTE. LTD. All rights reserved.
+ *
+ * See LICENSE file in the root directory of this source tree for terms.
  */
 
 #include "monitor.h"

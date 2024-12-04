@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+#
+# Copyright (c) 2024, Scitix Tech PTE. LTD. All rights reserved.
+#
 ROOT_DIR=$(cd $(dirname $0) && pwd)
 BUILD_DIR=$ROOT_DIR/build
 

@@ -1,5 +1,6 @@
 /*************************************************************************
  * Copyright (c) 2015-2024, NVIDIA CORPORATION. All rights reserved.
+ * Copyright (c) 2024, Scitix Tech PTE. LTD. All rights reserved.
  ************************************************************************/
 
 #include <stdint.h>
